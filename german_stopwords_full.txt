@@ -357,6 +357,7 @@ darum
 darunter
 das
 daß
+dass
 dasselbe
 Dat
 davon
@@ -1791,6 +1792,7 @@ womögliches
 woran
 woraufhin
 woraus
+worden
 worin
 wuerde
 wuerden
