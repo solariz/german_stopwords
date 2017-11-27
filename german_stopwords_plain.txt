@@ -247,7 +247,8 @@ hattet
 heraus
 herein
 hier
-hier	hinter
+hier
+hinter
 hiermit
 hiesige
 hin
@@ -486,7 +487,8 @@ unmöglichen
 unmöglicher
 uns
 unser
-unser	unsere
+unser
+unsere
 unsere
 unserem
 unseren
