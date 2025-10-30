@@ -1,6 +1,6 @@
 ; GERMAN STOPWORDS
 ; Zusammmengetragen von Marco Götze, Steffen Geyer
-; LAST UPDATE 12/2016
+; LAST UPDATE 10/2025
 ; Web Stopwords, more information at Source Link below!
 ; www.solariz.de
 ; Source and more Information: https://solariz.de/de/downloads/6/german-enhanced-stopwords.htm
@@ -1010,7 +1010,6 @@ legte
 legten
 leicht
 leider
-lesen
 letze
 letzte
 letzten
@@ -1554,9 +1553,6 @@ unsäglichem
 unsäglichen
 unsäglicher
 unsägliches
-unse
-unsem
-unsen
 unser
 unsere
 unserem
